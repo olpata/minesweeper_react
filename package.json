@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "minesweeper on react",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashekotilov",
+  "license": "ISC",
+  "engines": {
+    "node": "8.9.4"
+  }
+}
