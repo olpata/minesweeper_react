@@ -1,0 +1,11 @@
+goal:
+-try use react
+
+-need butttons : restart / finish 
+
+-field : 10x20
+
+
+
+----------
+
