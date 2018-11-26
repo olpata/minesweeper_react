@@ -9,3 +9,6 @@ goal:
 
 ----------
 
+run:
+cd ./minesweeper
+npm start
