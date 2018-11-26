@@ -5,10 +5,10 @@ export default class Cell extends React.Component {
 
     getValue(){
         if (!this.props.value.isRevealed){
-            return this.props.value.isFlagged ? "рџљ©" : null;
+            return this.props.value.isFlagged ? "???" : null;
         }
         if (this.props.value.isMine) {
-            return "рџ’Ј";
+            return "#";
         }
         if(this.props.value.neighbour === 0 ){
             return null;
